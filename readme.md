@@ -1,5 +1,9 @@
-hello, this is new version
+version 0.0.0
+
 current files
-readme.md
-/src
+ readme.md
+ /src
+   main.c
+ /include
+   std.h
 
