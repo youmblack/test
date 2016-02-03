@@ -1,15 +1,10 @@
 version 0.0.0
-
 current files
-
  readme.md
-
+ makefile
  /src
-
    main.c
-
  /include
-
    std.h
 
 
