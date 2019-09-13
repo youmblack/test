@@ -7,3 +7,6 @@
 
 # 超链接
 [Raspberry Pi Foundation](https://www.raspberrypi.org/)
+
+# 相对路径超链接
+- [图片](Fileflod/download.jpg)
